@@ -65,7 +65,7 @@ export const TOKEN_METADATA: (Partial<TokenMeta> & {mint: PublicKey})[] = [
     mint: FAKE_TOKEN_MINT,
     name: 'Solana',
     symbol: 'SOL',
-    image: '/logo.png',
+    image: 'https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png',
     baseWager: 1e9,
     decimals: 9,
     usdPrice: 0,
